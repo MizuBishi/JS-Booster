@@ -1,3 +1,4 @@
-# My Awesome API
+# My Awesome JavaScript
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+A book for daily practicing JavaScript by Michelle Andrey.
+
