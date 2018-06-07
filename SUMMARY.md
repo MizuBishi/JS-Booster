@@ -7,5 +7,4 @@
 ## Methods
 
 * [Defining Methods](methods.md)
-* [Styled Component](styled-component.md)
 
