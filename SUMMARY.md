@@ -7,3 +7,7 @@
 ## Methods
 
 * [Defining Methods](methods.md)
+
+## CSS
+
+* [Styled Component](styledComponent.md)
