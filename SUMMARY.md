@@ -7,7 +7,12 @@
 ## Methods
 
 * [Defining Methods](methods.md)
+* [Number] (number.md)
 
 ## CSS
 
-* [Styled Component](styledComponent.md)
+* [Styled Component](styled-component.md)
+
+## MongoDB
+
+* [Mongo DB](mongoDB.md)
