@@ -7,7 +7,7 @@
 ## Methods
 
 * [Defining Methods](methods.md)
-* [Number] (number.md)
+* [Number] (numbers.md)
 
 ## CSS
 

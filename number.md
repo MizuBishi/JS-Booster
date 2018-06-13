@@ -1,10 +1,8 @@
 # Type Number
 
-{% method %}
 ## toFixed()
 [](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed)
 
-{% sample lang="js" %}
 Here is how to print a message to `stdout` using JavaScript.
 
 ```js
@@ -31,4 +29,3 @@ Expected output: `123000.00`
 console.log(financial('1.23e+5'));
 ```
 
-{% endmethod %}

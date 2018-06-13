@@ -2,8 +2,6 @@
 
 Methods allow you to smoothly display code examples in different languages.
 
-{% method %}
-
 ## Example 1
 
 const mit den Styles:
